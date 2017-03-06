@@ -1,4 +1,3 @@
 # GenerativeMV-Trangulate
 
-proposal
-
+This is my proposal
